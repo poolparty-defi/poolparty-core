@@ -1,1 +1,1 @@
-poolparty-core
+poolparty-pools
